@@ -1,1 +1,1 @@
-Add some test to save and stage it!
+Add some test to save and stage it! Editted to test Git Commit with VSC as text editor for commit message
